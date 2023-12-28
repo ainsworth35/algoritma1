@@ -1,0 +1,7 @@
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma 13.hafta\İlkKonsolUygulamam\İlkKonsolUygulamam\bin\Debug\İlkKonsolUygulamam.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma 13.hafta\İlkKonsolUygulamam\İlkKonsolUygulamam\bin\Debug\İlkKonsolUygulamam.exe
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma 13.hafta\İlkKonsolUygulamam\İlkKonsolUygulamam\bin\Debug\İlkKonsolUygulamam.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma 13.hafta\İlkKonsolUygulamam\İlkKonsolUygulamam\obj\Debug\İlkKonsolUygulamam.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma 13.hafta\İlkKonsolUygulamam\İlkKonsolUygulamam\obj\Debug\İlkKonsolUygulamam.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma 13.hafta\İlkKonsolUygulamam\İlkKonsolUygulamam\obj\Debug\İlkKonsolUygulamam.exe
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma 13.hafta\İlkKonsolUygulamam\İlkKonsolUygulamam\obj\Debug\İlkKonsolUygulamam.pdb
