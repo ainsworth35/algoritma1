@@ -1,0 +1,7 @@
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma\algoritma 14.hafta\faktoryelalma\faktoryelalma\bin\Debug\faktoryelalma.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma\algoritma 14.hafta\faktoryelalma\faktoryelalma\bin\Debug\faktoryelalma.exe
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma\algoritma 14.hafta\faktoryelalma\faktoryelalma\bin\Debug\faktoryelalma.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma\algoritma 14.hafta\faktoryelalma\faktoryelalma\obj\Debug\faktoryelalma.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma\algoritma 14.hafta\faktoryelalma\faktoryelalma\obj\Debug\faktoryelalma.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma\algoritma 14.hafta\faktoryelalma\faktoryelalma\obj\Debug\faktoryelalma.exe
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma\algoritma 14.hafta\faktoryelalma\faktoryelalma\obj\Debug\faktoryelalma.pdb
