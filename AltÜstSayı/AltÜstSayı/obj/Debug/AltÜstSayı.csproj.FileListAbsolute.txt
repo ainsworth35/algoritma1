@@ -1,0 +1,7 @@
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma\algoritma 14.hafta\AltÜstSayı\AltÜstSayı\bin\Debug\AltÜstSayı.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma\algoritma 14.hafta\AltÜstSayı\AltÜstSayı\bin\Debug\AltÜstSayı.exe
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma\algoritma 14.hafta\AltÜstSayı\AltÜstSayı\bin\Debug\AltÜstSayı.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma\algoritma 14.hafta\AltÜstSayı\AltÜstSayı\obj\Debug\AltÜstSayı.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma\algoritma 14.hafta\AltÜstSayı\AltÜstSayı\obj\Debug\AltÜstSayı.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma\algoritma 14.hafta\AltÜstSayı\AltÜstSayı\obj\Debug\AltÜstSayı.exe
+C:\Users\ahmet\OneDrive\Masaüstü\algoritma\algoritma 14.hafta\AltÜstSayı\AltÜstSayı\obj\Debug\AltÜstSayı.pdb
